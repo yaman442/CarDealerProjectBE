@@ -115,6 +115,7 @@ public class CarServiceImpl implements CarService {
     }
 
     /**
+     *
      * Retrieves a specific car from the database by its ID.
      *
      * @param id The ID of the car to retrieve
